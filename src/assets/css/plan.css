@@ -1,0 +1,41 @@
+.plan {
+	margin-top: 100px !important;
+	color: white;
+}
+
+.select-card {
+	display: flex;
+  	justify-content: center;
+}
+
+.card-price {
+	color: #6f6fe7;
+	font-size: 24px;
+}
+.card-subtitle {
+	padding-top: 5px;	
+}
+
+.card-text {
+	font-size: 8px;
+	color: white !important;
+}
+
+.card-border{
+	border: 1px solid white;
+}
+
+.bill-text {
+	text-align: center;
+    font-size: 16px !important;
+    padding-top: 80px;
+}
+
+.save-text {
+	margin-top: -90px;
+	font-size: 16px !important;	
+}
+
+.mt-5 {
+	margin-top: 40px;
+}

@@ -1,0 +1,173 @@
+header .introduction-text {
+  padding-top: 350px;
+  padding-bottom: 200px;
+  text-align: center;
+}
+
+.intro h1 {
+  font-family: "Raleway", sans-serif;
+  color: #fff;
+  font-size: 50px;
+  font-weight: 700;
+  text-transform: inherit;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.btn-custom {
+  font-family: "Raleway", sans-serif;
+  text-transform: inherit;
+  color: #fff;
+  background-color: #5ca9fb;
+  background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+  padding: 14px 80px;
+  letter-spacing: 1px;
+  margin: 0;
+  margin-top: 20px;
+  font-size: 15px;
+  font-weight: 500;
+  border-radius: 25px;
+  transition: all 0.5s linear;
+  border: 0;
+}
+
+.btn-custom-coverage {
+  font-family: "Raleway", sans-serif;
+  text-transform: inherit;
+  color: #fff;
+  background-color: #8daac9;
+  padding: 14px 80px;
+  letter-spacing: 1px;
+  margin: 0;
+  margin-top: 20px;
+  font-size: 15px;
+  font-weight: 500;
+  border-radius: 25px;
+  transition: all 0.5s linear;
+  border: 0;
+}
+
+#future {
+  background-color: #4343c3;
+  padding: 80px;
+  color: #fff;
+}
+
+#future h2 {
+  text-transform: inherit;
+  margin: 0 0 20px;
+  font-weight: 800;
+  font-size: 36px;
+  color: #fff;
+}
+
+#future p {
+  font-size: 18px;
+}
+
+.future-text {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: center;
+  height: 350px;
+}
+
+#cover, #cover>.row {
+  margin-top: 30px;
+}
+
+#cover h2 {
+  text-transform: inherit;
+  margin: 0 0 20px;
+  font-weight: 800;
+  font-size: 36px;
+  color: rgb(23, 10, 108);
+}
+
+#cover p {
+  color: #000;
+}
+
+.cover-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+
+#cover img {
+  width: 80%;
+  height: 114px;
+}
+
+#cover img:hover {
+  box-shadow: 4px 2px 9px 1px #141;
+}
+
+.cover-imgs {
+  margin-top: 30px;
+}
+
+#income {
+  margin-top: 30px;
+}
+
+.income-title {
+  text-transform: inherit;
+  font-weight: 800;
+  font-size: 44px;
+  color: #000;
+  line-height: 0;
+  text-align: center;
+}
+
+.income-sub-title {
+  font-size: 36px;
+  color: rgb(56, 98, 188);
+  text-align: center;
+}
+
+#income {
+  margin-top: 80px;
+}
+
+.card {
+  padding:25px;
+  box-shadow: 2px 3px 11px 0px #000;
+  border-radius: 10px;
+  height: 310px;
+}
+
+.card:hover {
+  box-shadow: 0px 0px 0px 0px #000;
+  border: 2px solid green;
+}
+
+.card-header {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.card-title {
+  line-height: 0;
+  color: #000;
+}
+
+
+.card-body {
+  margin-top: 30px;
+}
+
+.card-body p {
+  text-align: center;
+  font-size: 22px;
+  color: #000;
+}
+
+.card-area {
+  margin-top: 50px;
+}
